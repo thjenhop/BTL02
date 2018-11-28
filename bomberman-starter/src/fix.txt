@@ -1,0 +1,6 @@
+portal   quái khi summon k đi ra được
+pauseDialog    thêm title 
+file load level 1-2  sửa lại file level
+Board           khi lên levels, kí hiệu báo hết quái không kêu, thêm sound khi lên level
+bomber, game		sau khi chết đôi lúc k đặt dc boom  --fix
+AImedium        sửa lại 
